@@ -1,0 +1,32 @@
+.wraper{
+    width: 60%;
+    height: 70px;
+    margin: 0 auto;
+}
+input{
+    width:40%;
+    height: 140px;
+    background: black;
+    border: none;
+    color: white;
+    font-size: 40px;
+}
+.gray{
+    background: #e0e0e0;
+}
+.orang{
+   background:#f59131;
+   color: white;
+}
+button{
+    width: 10%;
+    height: 40px;
+  border: 1px solid #a28f7b;
+  font-size: 10px;
+}
+.flex{
+    display: flex;
+}
+.zero{
+    width: 20%; 
+}
